@@ -1,0 +1,2 @@
+# myjournal
+An online journal
